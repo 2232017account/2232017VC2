@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body {
+	background-image: url(092.JPG);
+}
+
+body h1 {
+	color: #FF7E00;
+	font-family: "ＭＳ ゴシック";
+}
+.key {
+	color: #C7FFA5;
+	background-color: #0005FF;
+	font-size: x-large;
+}
+body p img {
+	border: 10px dotted #00FF3C;
+}
+body p img {
+}
